@@ -17,6 +17,7 @@ Feel free to connect with me or reach out if you have any questions or want to d
 
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/vihar-shah-263685230/) 👥
 - **Email**: <vihar2121@gmail.com> 📮
+- **Personal Github**: [@vihar-s1](https://github.com/vihar-s1)
 
 ## My GitHub Stats 📊
 
