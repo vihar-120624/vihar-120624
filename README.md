@@ -1,30 +1,24 @@
-# Hi there 👋
-
-Welcome to my UnifyApps GitHub profile!
+# Welcome to My UnifyApps GitHub Profile 👋
 
 ## About Me 🧑‍💻
 
-I'm Vihar Shah. In June 2024, I joined Unify as a Product Engineer on the backend team. My primary responsibilities include developing and maintaining backend services, ensuring their scalability, and integrating them with front-end systems. 🔧💻
+I'm Vihar Shah, a Product Engineer on the backend team at Unify. Since joining in June 2024, I've been focused on developing and maintaining scalable backend services.🔧💻
 
-## My Journey in UnifyApps 🚀
+## Professional Journey 🚀
 
-- **Current Role:** 🛠️ Product Engineer (Since June 2024).
-- **Education:** 🎓 B.Tech in Information and Communication Technology from DA-IICT (2020-2024).
+- **Current Role:** Product Engineer at UnifyApps (June 2024 - Present)
+- **Reporting Manager:** [Rahul Anishetty Sir](https://github.com/rahulanishetty)
+- **Education:** B.Tech in Information and Communication Technology, DA-IICT (2020-2024)
 
-## Get in Touch 📬
+## Connect With Me 📬
 
-Feel free to connect with me or reach out if you have any questions or want to discuss something.
+I'm always open to discussing tech, sharing ideas, or exploring collaboration opportunities:
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/vihar-shah-263685230/) 👥
-- **Email**: <vihar2121@gmail.com> 📮
-- **Personal Github**: [@vihar-s1](https://github.com/vihar-s1)
+- 📧 Professional Email: vihar.shah@unifyapps.com
+- 📧 Personal Email: svihar3108@gmail.com
+- 🔗 LinkedIn: [Vihar Shah](https://www.linkedin.com/in/vihar-shah-263685230/)
+- 🐙 Personal GitHub: [@vihar-s1](https://github.com/vihar-s1)
 
-## My GitHub Stats 📊
+---
 
-![Vihar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vihar-120624&show_icons=true&theme=radical)
-
-## GitHub Trophies 🏆
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vihar-120624&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-Thank you for visiting my profile! Let's build something amazing together. 🚀✨
+Thank you for visiting my profile! I'm excited to contribute to UnifyApps' mission and collaborate with fellow developers. Let's build something amazing together! 🚀✨
