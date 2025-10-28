@@ -7,7 +7,7 @@ I'm Vihar Shah, a Product Engineer on the backend team at Unify. Since joining i
 ## Professional Journey 🚀
 
 - **Current Role:** Product Engineer at UnifyApps (June 2024 - Present)
-- **Reporting Manager:** [Rahul Anishetty Sir](https://github.com/rahulanishetty)
+- **Reporting Manager:** [Sunil Chandra](https://github.com/sunil-chandra16)
 - **Education:** B.Tech in Information and Communication Technology, DA-IICT (2020-2024)
 
 ## Connect With Me 📬
